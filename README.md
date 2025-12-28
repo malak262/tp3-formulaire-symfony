@@ -1,4 +1,4 @@
-changer totlament ca :# TP 3 – Formulaires Symfony
+# TP 3 – Formulaires Symfony
 **EHEI 2025/2026**
 
 ## Étudiante
